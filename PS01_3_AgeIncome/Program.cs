@@ -28,7 +28,7 @@ namespace PS01_3_AgeIncome
         }
         else
         {
-            Console.WriteLine("You fall under the 'Other' category.");
+            Console.WriteLine("Other category.");
         }
         }
     }
